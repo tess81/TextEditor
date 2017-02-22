@@ -1,6 +1,8 @@
 # TextEditor
 
-Kravspecifikation:
+Enkel text editor, laborationsuppgift i kurs på universitetet.
+
+Från kravspecifikation:
 Laborationen går ut på att bygga en komplett texteditor med ett grafiskt användargränssnitt i Java användande Swing.
 
 Utgå ifrån programmet anteckningar (notepad) följande features ska implementeras:
